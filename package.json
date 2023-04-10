@@ -1,0 +1,15 @@
+{
+  "name": "vuepressblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "youcome <2448485734@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  },
+  
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
